@@ -1,0 +1,4 @@
+异常数据一共3条
+1.C003 缺失值previous-reading
+2.C004 previous-reading>current-reading 导致usage<0
+3.C008 缺失值current-reading
