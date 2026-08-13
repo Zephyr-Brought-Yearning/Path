@@ -1,0 +1,4 @@
+﻿customer_id,customer_name,region,month,previous_reading,current_reading,unit_price,usage
+C003,模拟客户三,南明区,2026-01,,1050.0,0.62,
+C004,模拟客户四,观山湖区,2026-01,450.0,430.0,0.6,-20.0
+C008,模拟客户八,云岩区,2026-02,1000.0,,0.61,
