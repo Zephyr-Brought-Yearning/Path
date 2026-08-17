@@ -4,8 +4,6 @@ import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import Alignment,Font,PatternFill
 
-from 学习日志.day08.day08_analysis import max_length
-
 plt.rcParams['font.sans-serif']=[
     "Microsoft YaHei",
     'SimHei',
